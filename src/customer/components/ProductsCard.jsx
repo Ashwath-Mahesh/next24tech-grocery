@@ -6,14 +6,14 @@ import { toast, Toaster } from 'react-hot-toast';
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDgF9ieIhZlQltxXZXk7yvEdBbgkj3-2XI",
-  authDomain: "ecom-674a8.firebaseapp.com",
-  projectId: "ecom-674a8",
-  storageBucket: "ecom-674a8.appspot.com",
-  messagingSenderId: "975921817921",
-  appId: "1:975921817921:web:6de76e7916338bb6b019c0",
-  measurementId: "G-60HP08XS7L",
-  databaseURL: "https://ecom-674a8-default-rtdb.firebaseio.com"
+  apiKey: 
+  authDomain: 
+  projectId: 
+  storageBucket: 
+  messagingSenderId: 
+  appId: 
+  measurementId: 
+  databaseURL: 
 };
 
 const app = initializeApp(firebaseConfig);
